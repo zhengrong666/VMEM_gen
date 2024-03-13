@@ -1,0 +1,1 @@
+./src/scramble_image.py ./data/top_earlgrey.gen.hjson ~/thinclient_drives/nanhu_v2/xs-env/nexus-am/tests/keymgr/build/bootrom-riscv64-xs-flash.elf ./test.vmem
